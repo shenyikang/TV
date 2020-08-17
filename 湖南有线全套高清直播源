@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",﻿CCTV1HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV1_8000
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV2_8000
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV3_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV5_8000
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV5%2B_8000
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV6_8000
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV7_8000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV8_8000
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV9_8000
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV10_8000
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV12_8000
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV-13_2000
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV14_8000
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=CCTV-15_2000
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=TJWS_8000
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=ZJWS_8000
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JSWS_8000
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=DFWS_8000
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=SZWS_8000
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=SCWS_8000
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=CQWS_8000
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HLJWS_8000
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=GDWS_8000
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JXWS_8000
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=AHWS_8000
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=SDWS_8000
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=GZWS_2000
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=GXWS_2000
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JLWS_2000
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=YNWS_2000
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=NXWS_2000
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=GSWS_2000
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=SXWS_2000
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=QHWS_2000
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=NMGWS_2000
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=LYWS_2000
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=XZWS_2000
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=BTWS_2000
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=XJWS_2000
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=KLCD_8000
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=QJS_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力音乐HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=MLYY_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=FZTD_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=DMXC_8000
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=XFC_8000
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=MLYY_8000
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=QJS_8000
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JSQC_8000
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=JBTY_8000
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=CFTX_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=DFCJ_8000
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="地方",中华美食[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=ZHMS_8000
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=XFPY_2000
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=YYBB_2000
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=TYWQ_2000
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=SHPD_2000
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷动画[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=KKDH_2000
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=XFPY_2000
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=YYBB_2000
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=TYWQ_2000
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNWS_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南经视HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNJS_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南娱乐HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNYL_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南都市HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNDS_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南公共HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNGG_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南国际[1024*576]
+http://hnyx.jilu8.cn/hnyx.php?id=HNGJPD_2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南教育HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNJY_2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=KLG_8000
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JYJS_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南公共HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=HNGG_8000
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通HD[1920*1080]
+http://hnyx.jilu8.cn/hnyx.php?id=JYKT_8000
